@@ -1,6 +1,7 @@
-##<center>Algorithm 2018
+##<center>Algorithm 2018##
 
-###<center>Section1 - Linear
+###<center>Section1 - Linear###
+
 _**Array & String**_
 
 | # | LC #  |  Title                                     |  Difficulty |  Note &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
@@ -102,7 +103,7 @@ _**LinkedList**_
 | 6 | 234 | Palindrome Linked List                         | Easy   |       |
 | 7 | 83  | Remove Duplicate From Sorted List I, II        | Medium   |     |
 
-###<center>Section2 - Binary Search & Tree
+###<center>Section2 - Binary Search & Tree###
 _**Binary Search**_
 
 | # | LC #  |  Title                                     |  Difficulty |  Note &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
@@ -196,7 +197,7 @@ _**Trie**_
 | 4 | 425 | Word Squares                                  | Hard   |       |
 
 
-###<center>Section3 - Graph
+###<center>Section3 - Graph###
 
 _**DFS&Backtrack**_
 
@@ -247,7 +248,7 @@ _**DFS&Backtrack**_
 | 33| 562 | Longest Line of Consecutive One in Matrix      | Medium   |       |
 
 
-###<center>Section4 - DP
+###<center>Section4 - DP###
 
 _**A Peek into Dynamic Programming + Dynamic Programming on Coordinates**_
 
@@ -329,7 +330,8 @@ _**Dynamic Programming on Double Sequence**_
 
 
 
-###<center>Section5 - Data Structure
+###<center>Section5 - Data Structure###
+
 | # | LC #  |  Title                                     |  Difficulty |  Note &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |---|-----|------------------------------------------------|--------|-------|
 | 1 | 379 | Design Phone Directory                         | Medium |       |
