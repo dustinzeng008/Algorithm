@@ -44,6 +44,7 @@ _**Array & String**_
 | 36| 49  | Group Anagrams                                 | Medium |       |
 | 37| 360 | Sort Transformed Array                         | Medium |       |
 | 38| 582 | Kill Process                                   | Medium |       |
+| 39| 29  | Divide Two Integers                            | Medium |       |
 
 _**Sliding Window**_
 
@@ -81,6 +82,13 @@ _**Stack**_
 | 9 | 735  | Asteroid Collision                            | Medium |       |
 | 10| 316  | Remove Duplicate Letters                      | Hard   |       |
 
+_**Bit Manipulation**_
+
+| # | LC #  |  Title                                     |  Difficulty |  Note &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
+|---|-----|------------------------------------------------|--------|-------|
+| 1 | 371 | Sum of Two Integers                            | Easy   |       |
+
+    
 _**Interval**_
 
 | # | LC #  |  Title                                     |  Difficulty |  Note &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
